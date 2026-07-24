@@ -8,5 +8,5 @@ Key Insights:
   Consumer is spending most on Clothing.
   Pune is  the city with highest number of sales.
   Puma being the most shopped brand online and offline.
-  Myntra records the highest sales.
   End of Season Sale bring the most revenue in the Ecommerce business.
+  May and August records highest nummber of sales.
